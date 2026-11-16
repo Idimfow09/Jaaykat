@@ -1,2 +1,2 @@
-# Jaaykat
-Jaaykat est une application web mobile first conçue pour la gestion des commerces informels au Senegal
+# Saba
+Saba est une application web mobile first conçue pour la gestion des commerces informels 
